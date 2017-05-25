@@ -1,0 +1,12 @@
+{
+  "name": "react-labels",
+  "version": "0.0.1",
+  "description": "React Component for create input with labels",
+  "main": "index.js",
+  "repository": "https://github.com/VladimirJarabica/react-labels.git",
+  "author": "VladimirJarabica <vladojarabica@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.4"
+  }
+}
